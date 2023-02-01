@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FreeCodeApp</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="nametw">Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="last_name1">Last Name</string>
+    <string name="email">Email</string>
+    <string name="email2">Email:</string>
 </resources>
